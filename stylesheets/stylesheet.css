@@ -8,6 +8,52 @@ body {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
+/* Socail Icon */
+.container a.facebook {
+  display: block;
+  float:left;
+  height:42px;
+  width:42px;
+  margin:0px;
+  text-indent:-9999px;
+  background-image:url('../images/facebook.png');
+  background-position:0px -100px;
+
+}
+
+.container a.twitter {
+  display: block;
+  float:left;
+  height:42px;
+  width:42px;
+  margin:0px;
+  text-indent:-9999px;
+  background-image:url('../images/twitter.png');
+  background-position:0px -100px;
+}
+
+.container a.linkedin {
+  display: block;
+  float:left;
+  height:42px;
+  width:42px;
+  margin:0px;
+  text-indent:-9999px;
+  background-image:url('../images/linkedin.png');
+  background-position:0px -100px;
+}
+
+.container a.github {
+  display: block;
+  float:left;
+  height:42px;
+  width:42px;
+  margin:0px;
+  text-indent:-9999px;
+  background-image:url('../images/github.png');
+  background-position:0px -100px;
+}
+
 /* General & 'Reset' Stuff */
 
 .container {
@@ -39,7 +85,7 @@ header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
   border-bottom: 1px dashed #b5e853;
-  padding: 20px 0;
+  padding: 10px 0 60px 0;
   margin: 0 0 40px 0;
 }
 
