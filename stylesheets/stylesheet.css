@@ -8,6 +8,12 @@ body {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
+span#solid-box{
+  color: #000000;
+  background-color: rgb(238, 238, 224);
+  padding: 0 3px;
+}
+
 /* Socail Icon */
 .container a.facebook {
   display: block;
