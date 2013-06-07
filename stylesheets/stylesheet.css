@@ -8,6 +8,10 @@ body {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 }
 
+a {
+  text-decoration: None;
+}
+
 span#solid-box{
   color: #000000;
   background-color: rgb(238, 238, 224);
@@ -281,6 +285,10 @@ hr {
 a {
   color: #63c0f5;
   text-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+}
+
+a:hover {
+  color: #75F563;
 }
 
 /* Clearfix */
